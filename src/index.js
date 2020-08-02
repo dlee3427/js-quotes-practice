@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () =>{
         li.className = "quote-card"
 
         const blockquote = document.createElement("blockquote")
-        blockquote.className = "blockquote-footer"
+        blockquote.className = "blockquote"
 
         const p = document.createElement("p")
         p.className = "mb-0"
@@ -34,6 +34,7 @@ document.addEventListener("DOMContentLoaded", () =>{
 
         const deleteBtn = document.createElement("button")
         deleteBtn.innerText = "Delete Quote"
+        deleteBtn.className = "btn-danger"
         deleteBtn.addEventListener("click", () => {
             fetch("http://localhost:3000/quotes/"+text.id, {
                 method: "DELETE"
@@ -42,6 +43,7 @@ document.addEventListener("DOMContentLoaded", () =>{
         })
 
         const likeBtn = document.createElement("button")
+        likeBtn.className = "btn-success"
         likeBtn.innerText = "Likes: "
         const span = document.createElement("span")
         if (text.likes) {

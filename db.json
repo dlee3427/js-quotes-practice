@@ -2,16 +2,11 @@
   "quotes": [
     {
       "quote": "Dave",
-      "author": "Dave",
-      "id": 2
-    },
-    {
-      "quote": "Dave",
       "author": "Dae",
       "id": 3
     },
     {
-      "quote": "Amos",
+      "quote": "Famous Amos",
       "author": "Amos",
       "id": 4
     }
@@ -27,84 +22,8 @@
       "id": 3
     },
     {
-      "quoteId": 2,
-      "id": 4
-    },
-    {
-      "quoteId": 2,
-      "id": 5
-    },
-    {
-      "quoteId": 5,
-      "id": 6
-    },
-    {
-      "quoteId": 6,
-      "id": 7
-    },
-    {
-      "quoteId": 7,
-      "id": 8
-    },
-    {
-      "quoteId": 8,
-      "id": 9
-    },
-    {
-      "quoteId": 9,
-      "id": 10
-    },
-    {
-      "quoteId": 2,
-      "id": 11
-    },
-    {
-      "quoteId": 11,
-      "id": 12
-    },
-    {
-      "quoteId": 12,
-      "id": 13
-    },
-    {
-      "quoteId": 13,
-      "id": 14
-    },
-    {
-      "quoteId": 14,
-      "id": 15
-    },
-    {
-      "quoteId": 2,
-      "id": 16
-    },
-    {
-      "quoteId": 16,
-      "id": 17
-    },
-    {
-      "quoteId": 2,
-      "id": 18
-    },
-    {
-      "quoteId": 2,
-      "id": 19
-    },
-    {
       "quoteId": 3,
       "id": 20
-    },
-    {
-      "quoteId": 20,
-      "id": 21
-    },
-    {
-      "quoteId": 2,
-      "id": 22
-    },
-    {
-      "quoteId": 2,
-      "id": 23
     },
     {
       "quoteId": 3,
@@ -121,6 +40,18 @@
     {
       "quoteId": 3,
       "id": 27
+    },
+    {
+      "quoteId": 3,
+      "id": 28
+    },
+    {
+      "quoteId": 4,
+      "id": 29
+    },
+    {
+      "quoteId": 4,
+      "id": 30
     }
   ]
 }
